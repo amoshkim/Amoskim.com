@@ -157,6 +157,7 @@
     <orderEntry type="library" scope="PROVIDED" name="faker (v1.1.2, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.6, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="formatador (v0.2.5, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="foundation-rails (v5.4.5.0, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gherkin (v2.12.2, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="guard (v2.6.1, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="guard-livereload (v2.3.1, RVM: ruby-2.0.0-p481 [railstutorial_rails_4_0]) [gem]" level="application" />

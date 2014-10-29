@@ -1,0 +1,75 @@
+/* ------------------------------------------------------------ *\
+|* ------------------------------------------------------------ *|
+|* Header
+|* ------------------------------------------------------------ *|
+\* ------------------------------------------------------------ */
+/* general style for all header elements */
+
+//Nav & Buttons
+
+
+nav.menu {
+  background-color: #67b5d1;
+}
+
+    nav.push-menu-left li {
+      display: block;
+      text-align: center;
+      //  border-bottom: solid 1px #3184a1;
+      //  border-top: solid 1px #b5dbe9;
+    }
+    nav.push-menu-left li:first-child {
+      border-top: none
+    }
+    nav.push-menu-left li:last-child {
+      border-bottom: none
+    }
+
+    nav.menu ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    nav.menu a {
+      font-weight: 300;
+      color: #fff;
+    }
+
+nav.push-menu-left a {
+  display: block;
+  padding: 10px;
+  font-size: 18px;
+}
+
+    nav.push-menu-left button.close-menu {
+      //  margin: 10px 0;
+      //  padding: 10px 30px;
+      background-color: #3184a1;
+      //  color: #fff;
+    }
+
+
+button.close-menu {
+  //  background-color: #3184a1;
+  //  color: #fff;
+}
+
+    button.close-menu:focus {
+      outline: none
+    }
+
+/* ------------------------------------------------------------ *\
+|* ------------------------------------------------------------ *|
+|* Main
+|* ------------------------------------------------------------ *|
+\* ------------------------------------------------------------ */
+/* general style for all Main elements */
+
+
+.section {
+ min-height: 1000px;
+}
+
+#intro{
+  background: rgba(0, 0, 0, 0.3);
+}
